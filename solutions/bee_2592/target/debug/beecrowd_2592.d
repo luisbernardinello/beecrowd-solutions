@@ -1,0 +1,1 @@
+C:\WizardPath\computer-wizard\remote-repositories\competitive-programming\rust-competitive-programming\src\beecrowd\beecrowd_2592\target\debug\beecrowd_2592.exe: C:\WizardPath\computer-wizard\remote-repositories\competitive-programming\rust-competitive-programming\src\beecrowd\beecrowd_2592\src\main.rs
